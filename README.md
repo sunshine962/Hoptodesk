@@ -191,4 +191,4 @@ This repository serves as the official landing page for HopToDesk. The software 
 **Get the most recent version of HopToDesk today!**
 
 ---
-**Last updated:** 2026-11-10 20:22:50 UTC
+**Last updated:** 2026-11-11 01:08:24 UTC
